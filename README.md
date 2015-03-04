@@ -1,7 +1,7 @@
 ﻿提督業も忙しい！いれじすエディション (KCV_irejisEdition)
 --
 
-ぐらばく様の『提督業も忙しい』(http://grabacr.net/kancolleviewer)を色々拡張したものです。
+ぐらばく様の『提督業も忙しい』 ( http://grabacr.net/kancolleviewer ) を色々拡張したものです。
 基本的に思いついたのものをそのままくっつけるという手法で成り立っています。
 研究目的であり一般向けではないのであしからず。
 
